@@ -1,0 +1,21 @@
+yarn-error
+# Node stuff
+node_modules
+.npm
+.node_repl_history
+.lock-wscript
+logs
+*.log
+npm-debug.log*
+
+# OS stuff
+data
+volumes
+.vscode
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+build
+dist
